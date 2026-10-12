@@ -22,7 +22,7 @@ window.CONTENT = {
       'I studied computer science at AUEB and I am now studying Business Administration at the Hellenic Open University.'
     ],
     facts: [
-      ['Based in', 'Nea Smirni, Athens'],
+      ['Based in', 'Athens'],
       ['Now at', 'Unisystems'],
       ['Languages', 'Greek, English, French']
     ]
@@ -130,7 +130,7 @@ window.CONTENT = {
     email: 'theodoridouioanna@hotmail.com',
     phone: '',
     linkedinName: 'Ioanna Theodoridou',
-    linkedinUrl: '',          // π.χ. 'https://www.linkedin.com/in/...'
+    linkedinUrl: 'https://www.linkedin.com/in/ioanna-theodoridou-/',          // π.χ. 'https://www.linkedin.com/in/...'
     location: 'Athens, Greece'
   }
 };
