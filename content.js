@@ -131,6 +131,6 @@ window.CONTENT = {
     phone: '',
     linkedinName: 'Ioanna Theodoridou',
     linkedinUrl: '',          // π.χ. 'https://www.linkedin.com/in/...'
-    location: 'Nea Smirni, Athens, Greece'
+    location: 'Athens, Greece'
   }
 };
