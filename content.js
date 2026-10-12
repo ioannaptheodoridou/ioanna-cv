@@ -19,7 +19,7 @@ window.CONTENT = {
     lead: 'I help Greek public sector organisations move their finance and accounting work onto modern ERP software.',
     paragraphs: [
       'My background mixes sales support, operations and data work. The common thread is understanding how people actually work and then making the software fit them. I translate business needs for developers, configure systems and train the people who use them every day.',
-      'I studied computer science at AUEB and I am now studying Business Administration at the Hellenic Open University.'
+      'I completed two years of Computer Science at AUEB and I am now studying Business Administration at the Hellenic Open University.'
     ],
     facts: [
       ['Based in', 'Athens'],
