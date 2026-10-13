@@ -11,6 +11,7 @@ window.CONTENT = {
   // ---- Πάνω μέρος σελίδας ----
   name: 'Ioanna Theodoridou',
   role: 'Business Application Analyst · Athens',
+  goatcounter: 'ioannaptheodoridou',
   intro: 'Welcome to my room. Everything in it says something about me, so tap an object to take a closer look.',
 
   // ---- Πίνακας στον τοίχο ----
